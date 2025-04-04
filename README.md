@@ -2,6 +2,7 @@
 
 
 *THEIR TITLE, GENRE, BOX OFFICE COLLECTION, MOVIES NOMINATION IN OSCARS AND NO OF OSCAR WINS.
+
 *I have established relationships through POWER BI tool.
 
 
