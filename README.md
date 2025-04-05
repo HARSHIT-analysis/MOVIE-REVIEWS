@@ -7,7 +7,7 @@
 
 
 this is my first project of movies😃<mark>where</mark>.
-first, i have gone through the titles
-second, tried to see what genre it was
-third, bifurcated it with the top or least box office (in dollars)
+1.first, i have gone through the titles
+2.second, tried to see what genre it was
+3.third, bifurcated it with the top or least box office (in dollars)
 
