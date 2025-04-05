@@ -10,4 +10,6 @@
 * First, I have gone through the titles.
 * Second, I have tried to see what genre it was.
 * Third,  I bifurcated it with the top or least box office (in dollars).
+  
+![DecompositionTreeForMoviesGenre](https://github.com/user-attachments/assets/dec1d1a6-92e1-4173-9d8c-beb29d0991ab)
 
