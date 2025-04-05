@@ -8,6 +8,6 @@
 
 * This is my first project of movies😃<mark>where</mark>. 
 * First, I have gone through the titles.
-* Second, I havetried to see what genre it was.
+* Second, I have tried to see what genre it was.
 * Third,  I bifurcated it with the top or least box office (in dollars).
 
